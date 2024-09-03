@@ -1,0 +1,8 @@
+/.venv
+/index.html
+/index.js
+/node_modules
+/package-lock.json
+/package.json
+/sql-wasm.js
+/sql-wasm.wasm
