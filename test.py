@@ -12,7 +12,7 @@ def init_db():
             age INTEGER
         )
     ''')
-    conn.commit()
+    conn.commit() ###
     conn.close()
 
 # Function to insert data into the database
